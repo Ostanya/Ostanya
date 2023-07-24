@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ostanya
-- 👀 I’m interested in programming, math 💞️
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on useful project(Java Spring)
+- 🌱 I’m a Java Developer.
 - 📫 How to reach me : ostania.tania@gmail.com
 
 <!---
